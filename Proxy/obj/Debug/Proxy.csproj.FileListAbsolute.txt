@@ -1,0 +1,5 @@
+I:\Working Project\Design Patern - do factory\Proxy\Proxy\bin\Debug\Proxy.exe
+I:\Working Project\Design Patern - do factory\Proxy\Proxy\bin\Debug\Proxy.pdb
+I:\Working Project\Design Patern - do factory\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+I:\Working Project\Design Patern - do factory\Proxy\Proxy\obj\Debug\Proxy.exe
+I:\Working Project\Design Patern - do factory\Proxy\Proxy\obj\Debug\Proxy.pdb
